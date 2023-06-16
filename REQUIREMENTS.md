@@ -28,13 +28,13 @@ Step into the world of "MindMelter" and explore the fascinating annals of histor
 * User can click on the trivia to initiate a conversation with ChatGPT for deeper learning about the topic
 * The user's chat history related to a specific trivia is saved for future reference on their profile page.
 * User can edit their name on their profile page.
+* Speech-to-text/text-to-speech for conversations with the AI assistant using Amazon Transcribe/Android.Speech and Amazon Polly
 
 ### Stretch Goals
 
 * The home page will show a feed of previous trivia.
 * User can bookmark favorite trivias for easy access.
 * User can add a photo to their profile.
-* Speech-to-text/text-to-speech for conversations with the AI assistant using Amazon Transcribe/Android.Speech and Amazon Polly
 * Incorporate AWS lambda for safe use of OpenAI API key.
 
 ## Functional Requirements
@@ -48,9 +48,9 @@ Step into the world of "MindMelter" and explore the fascinating annals of histor
 
 This contains the ins/outs, functional requirements, and data flow of the app
 
-![Domain Model of XXX](images/XXX)
+![Domain Model of MindMelter](images/mindmelter-domain-model.png)
 
-![Database Schema of XXX](images/XXX)
+![Database Schema of MindMelter](images/mindmelter-database-schema.png)
 
 ## Non-Functional Requirements
 
